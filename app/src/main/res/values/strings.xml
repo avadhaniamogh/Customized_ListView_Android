@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Miscellaneous Rows ListView</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="list_items">
+        <item>Plain Text</item>
+        <item>Text with Checkbox</item>
+        <item>Text with Radiobutton</item>
+    </string-array>
+</resources>
